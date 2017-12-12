@@ -38,27 +38,27 @@ import base64
 import ast
 
 cl = Acil.LINE()
-cl.login(token="EngJ8UpjMJYCRh9cEJ9a.aOTiG1carSOCx+g/nMjvcG.p6cBwZOVjDq2QeUFMq1JB+0jymtnYNWwF9MpFDRBJIw=")
+cl.login(token="EnAj23Jh8RuJPIj8gSR2.AZs3a8Vf+ipnhLTOmQbtuG.IMP3CkWJzbWurJzxISj1C93pJEV6ekIPia+yceUIGDY=")
 cl.loginResult()
 
 kt = Acil.LINE()
-kt.login(token="EnUqdCjJ8fSjexqi8LJc.iZNLcdioefZ+mSjor8gkJa.0mjj1Hy5s50mWya0uJjmXBNDqLNJRVjFR62q0aIC+qo=")
+kt.login(token="EnvQXVzt3IgL2QvxUgz8.pIfscrd8L4dj1jrbrT2fca.lJOK5Qp8g5KnPMCGvZnKxlyBqwaWvtTjiWQiHJoch54=")
 kt.loginResult()
 
 ks = Acil.LINE()
-ks.login(token="Ent9w6jOjo6GVfabvxz0.5S0QMY3ovFEQo09j0NcUaa.jWzgoDEYyeWgqihbWOgS5Jce3qZn9JcTEKs12TgREts=")
+ks.login(token="EnJHnzZtcLZy08jUudr8.6aZTpsG37MxD+MqNsJxP6a.pZsWL5U6ieTsZrFJuMXnf7QpspabSy9KaU1zGy6VO6I=")
 ks.loginResult()
 
 ki = Acil.LINE()
-ki.login(token="EnA1jib5ECXxIGHUuBOc.hN6QvS3UksU4kbHSuhgIVa.SneVjsMU7dRMxEoytB5+wdHNB4KIIGKQ0n7E7tGv9Ec=")
+ki.login(token="EnJ6mjXHY2IGs6R9n1Hf.TxpN+3FqpfVz0URVVjPPxW.zUTh0PiZgXO1pQY7kHa5tn8g8AHT5ivC1FqRLTsiIGc=")
 ki.loginResult()
 
 kk = Acil.LINE()
-kk.login(token="EnsKKfiWDmzHGrqNKGod.escIT9YogRXrqxPKWvinxq.yAymj5N16QE4+NsbyVbyBQNBPADzPXVNHBPf4VPC3+c=")
+kk.login(token="En6QESR7hoEmT4F3A2m4.DPUJL7N9FlH3q14qZJ5r5a.SwCLojcGrkvRGB2rzgPJH+k0P5UD2C+PLy3yzCRF51I=")
 kk.loginResult()
 
 kc = Acil.LINE()
-kc.login(token="EnEpIrNVf2awq6JeQwQ7.rBY3JsgaAqDiXr2VDbxQrW.TAt3gQzqUkrxfFukmIa2+h5o+hqGtXaB+Ym4+D6qLDA=")
+kc.login(token="EnlG4y1876rJ6k4O0WL4.+Bc/Zlua/rxta3RDE9Qfra.GhjAQy9dGlOPyMu05Y9wgNRDI7UHt1VnAiVViGHAnlY=")
 kc.loginResult()
 
 print "Acil"
@@ -67,7 +67,7 @@ sys.setdefaultencoding('utf-8')
 helpMessage= """\n
 ▂▃▅▇█▓▒░۩H̸͟͞e̸͟͞l̸͟͞p̸͟͞ ̸͟͞۩░▒▓█▇▅▃▂
 ═╬════════►∆∆
-   E̸͟͞d̸͟͞i̸͟͞t̸͟͞e̸͟͞d̸͟͞.       
+==[WAHYUDI]==       
 ═╬════════► 
 🔘 My name    :  |╬|
 🔘 Bot2 rename:  |╬|
@@ -89,13 +89,13 @@ helpMessage= """\n
 🔘 Bot1-6 backup |╬|
 🔘 Group name:   |╬|
 ═╬════════►∆∆
-   🔓D̸͟͞e̸͟͞m̸͟͞o̸͟͞t̸͟͞e̸͟͞d̸͟͞.🔓
+🔓[WAHYUDI]🔓
 ═╬════════►
 |╬| Admin on @
 |╬| Expel on @
 |╬| Expelal
 ═╬════════►
-   📷S̸͟͞T̸͟͞E̸͟͞A̸͟͞L̸͟͞I̸͟͞N̸͟͞G̸͟͞📷
+📷[WAHYUDI]📷
 ═╬════════►
 |╬| Steal
 |╬| Steal name    @
@@ -116,12 +116,12 @@ helpMessage= """\n
 |╬| Pap
 |╬| Image      [Text]
 ═╬════════►
-   🔐S̸͟͞E̸͟͞C̸͟͞U̸͟͞R̸͟͞Y̸͟͞I̸͟͞T̸͟͞Y̸͟͞🔐
+   🔐Protect🔐
 ═╬════════►
 |╬| Protect:low
 |╬| Protect:hight
 ═╬════════►
-   🚮L̸͟͞I̸͟͞S̸͟͞T̸͟͞ B̸͟͞A̸͟͞N̸͟͞N̸͟͞E̸͟͞D̸͟͞🚮
+🚮[WAHYUDI]🚮
 ═╬════════►
 |╬| Ban            @
 |╬| Unban          @
@@ -131,14 +131,14 @@ helpMessage= """\n
 |╬| Add friend     @
 |╬| Clear banlist
 ═╬════════►
-   📲i̲̅n̲̅v̲̅i̲̅t̲̅a̲̅t̲̅i̲̅o̲̅n̲̅📲
+   📲Invite📲
 ═╬════════►
 |╬| Invite:[mid]
 |╬| Invite user[contact]
 |╬| Invite me
 |╬| Team @join
 ═╬════════►
-   📴L̸͟͞E̸͟͞A̸͟͞V̸͟͞E̸͟͞ G̸͟͞R̸͟͞O̸͟͞U̸͟͞P̸͟͞📴
+   📴GROUP📴
 ═╬════════►
 |╬| Bot2   @bye
 |╬| Bot3   @bye
@@ -149,7 +149,7 @@ helpMessage= """\n
 |╬| Center @bye
 |╬| Bye allgroups[own]
 ═╬════════►
-   🔫A̸͟͞U̸͟͞T̸͟͞O̸͟͞ S̸͟͞E̸͟͞T̸͟͞ B̸͟͞O̸͟͞T̸͟͞🔫
+   🔫SELFBOT🔫
 ═╬════════►
 |╬| Auto reinvite:on/off
 |╬| Auto join:on/off
@@ -172,19 +172,19 @@ helpMessage= """\n
 |╬| Update welcome:
 |╬| Check welcome message
 ═╬════════►
-   🚮M̸͟͞O̸͟͞D̸͟͞E̸͟͞ C̸͟͞A̸͟͞N̸͟͞C̸͟͞E̸͟͞L̸͟͞🚮
+   🚮CANCEL🚮
 ═╬════════►
 |╬| Rejectall
 |╬| Clean invites
 |╬| Clear invites
 ═╬════════►
-   S̸͟͞U̸͟͞R̸͟͞P̸͟͞R̸͟͞I̸͟͞S̸͟͞E̸͟͞ G̸͟͞I̸͟͞F̸͟͞T̸͟͞
+   SURFRAES
 ═╬════════►
 |╬| gift1-15
 |╬| Spam gift
 |╬| Gift @
 ═╬════════►
-   📲N̸͟͞O̸͟͞T̸͟͞I̸͟͞F̸͟͞I̸͟͞C̸͟͞A̸͟͞T̸͟͞I̸͟͞O̸͟͞N̸͟͞ 📲
+   📲NOTIFIKASION📲
 ═╬════════►
 |╬| Group list
 |╬| Banlist
@@ -196,7 +196,7 @@ helpMessage= """\n
 |╬| Micdel          @
 |╬| Micadd          @
 ═╬════════►
-   🚮W̸͟͞T̸͟͞F̸͟͞ K̸͟͞I̸͟͞L̸͟͞L̸͟͞ Y̸͟͞O̸͟͞U̸͟͞🚮
+   🚮HAPUS🚮
 ═╬════════►
 |╬| Cleanse
 |╬| Vkick @
@@ -204,7 +204,7 @@ helpMessage= """\n
 |╬| Kick:[mid]
 |╬| Purge
 ═╬════════►
-   💻S̸͟͞P̸͟͞A̸͟͞M͞ S̸͟͞E̸͟͞R̸͟͞V̸͟͞E̸͟͞R̸͟͞💻
+   💻SPAM💻
 ═╬════════►
 |╬| Spamg[on/off]
 |╬| Spam add:
@@ -231,7 +231,7 @@ helpMessage= """\n
 |╬| runtim
 |╬| show offenders:on/off
 ═╬════════►
-   💻U̸͟͞T̸͟͞I̸͟͞L̸͟͞I̸͟͞T̸͟͞Y̸͟͞💻
+   💻UTILITY💻
 ═╬════════►
 |╬| Lurking
 |╬| Lurking result
@@ -241,7 +241,7 @@ helpMessage= """\n
 |╬| Remove chat
 |╬| Bot restart
 ═╬════════►
-   💿S̸͟͞E̸͟͞A̸͟͞R̸͟͞C̸͟͞H̸͟͞ C̸͟͞H̸͟͞A̸͟͞T̸͟͞💿
+   💿SEARC CHAT💿
 ═╬════════►
 |╬| Lyric 
 |╬| Music 
@@ -272,19 +272,18 @@ helpMessage= """\n
 |╬| Sticker [expression]
 |╬| Mention all
 ═╬════════►
-   📣B̸͟͞R̸͟͞O̸͟͞A̸͟͞D̸͟͞C̸͟͞A̸͟͞S̸͟͞T̸͟͞📣
+   📣BRODCAST📣
 ═╬════════►
 |╬| Pm cast   
 |╬| Broadcast 
 |╬| Spam @[name]
 ═╬════════►
-   💻P̸͟͞o̸͟͞w̸͟͞e̸͟͞r̸͟͞💻
+   💻POWER BOT💻
 ═╬════════►
 🔘Turn off bots🔘
 ●▬▬▬▬๑۩Special Thanks۩๑▬▬▬▬▬●
-P̸͟͞O̸͟͞W̸͟͞E̸͟͞R̸͟͞ B̸͟͞Y̸͟͞ T̸͟͞C̸͟͞R̸͟͞
-Edited̸͟͞ by A̸͟͞C̸͟͞I̸͟͞L̸͟͞A̸͟͞R̸͟͞D̸͟͞
-   ●▬▬▬▬๑۩FuckMyBot۩๑▬▬▬▬▬●
+
+●▬▬▬▬๑۩==[WAHYUDI]==۩๑▬▬▬▬▬●
 
 """
 
@@ -364,8 +363,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["u028b4883508046ca1c5ff1be3662550a"]
-owner = ["u028b4883508046ca1c5ff1be3662550a"]
+admin = ["u6b34b703cbc5fc83cd1e5b6832a05352"]
+owner = ["u6b34b703cbc5fc83cd1e5b6832a05352"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -375,7 +374,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks for add Me",
     "lang":"JP",
-    "comment":"AutoLike by Acil http://line.me/ti/p/eIlSELYxLR",
+    "comment":"AutoLike by இहई╬۞¥ûDï۞╬हईஇ http://line.me/ti/p/eyudi_std02",
     "welmsg":"welcome to group",
     "commentOn":True,
     "commentBlack":{},
@@ -3190,7 +3189,7 @@ def bot(op):
                         cl.sendText(msg.to,"Already。")
 #==========================================================
 
-            elif msg.text in ["Settings"]:
+            elif msg.text in ["menu"]:
               if msg.from_ in admin:
             	print "Setting pick up..."
                 md="list of bot settings\n\n"
@@ -4159,7 +4158,7 @@ def bot(op):
 						
 #========================================
 #---------------FUNGSI RATAIN GRUP TANPA KICK SESAMA BOT/Admin/Bots----------#
-            elif "Cleanse" in msg.text:
+            elif "bubar" in msg.text:
 	      if msg.from_ in admin:
                 if msg.toType == 2:
                     print "ok cleanse"
@@ -4271,7 +4270,7 @@ def bot(op):
 						cl.sendText(manusia,(bctxt +"\n\n\nbroadcasted by:" + cl.getContact(msg.from_).displayName))
 										 
 #========================================
-            elif msg.text in ["Team @join"]:
+            elif msg.text in ["hay"]:
               if msg.from_ in admin:
 					G = cl.getGroup(msg.to)
 					info = cl.getGroup(msg.to)
@@ -4297,7 +4296,7 @@ def bot(op):
 					cl.updateGroup(G)
 #=====================================================================================
           
-            elif msg.text in ["Bye allgroups"]:
+            elif msg.text in ["moleh"]:
               if msg.from_ in admin:
 				gid = cl.getGroupIdsJoined()
 				for i in gid:
@@ -4587,7 +4586,7 @@ def bot(op):
                     #for _mid in gMembMids:
                         #random.choice(KAC).cancelGroupInvitation(msg.to,[_mid])
                     #cl.sendText(msg.to,"Clear boss!!!")
-            elif msg.text.lower() in ["mention all"]:
+            elif msg.text.lower() in ["say"]:
               if msg.from_ in admin:
                 group = cl.getGroup(msg.to)
                 nama = [contact.mid for contact in group.members]
@@ -4695,7 +4694,7 @@ def bot(op):
                         cl.sendMessage(msg)
 
         if op.type == 32:
-			OWN = "u028b4883508046ca1c5ff1be3662550a"
+			OWN = "u6b34b703cbc5fc83cd1e5b6832a05352"
 			if op.param2 in Bots and admin:
 				pass
 			else:
@@ -4749,15 +4748,15 @@ def autoSta():
                    ks.like(posts["userInfo"]["writerMid"], posts["postInfo"]["postId"], 1001)
                    kt.like(posts["userInfo"]["writerMid"], posts["postInfo"]["postId"], 1001)
                    if wait["commentOn"] == True:
-                      if posts["userInfo"]["writerMid"] in wait["commentBlack"]:
+                      if posts["userInfo"]["writerMid"] in wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"]:
                          pass
                       else:
-                          cl.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
-                          ki.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
-                          kk.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
-                          kc.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
-                          ks.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
-                          kt.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["comment"])
+                          cl.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
+                          ki.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
+                          kk.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
+                          kc.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
+                          ks.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
+                          kt.comment(posts["userInfo"]["writerMid"],posts["postInfo"]["postId"],wait["இहई╬۞¥ûDï۞╬हईஇ/nSalken"])
         except:
             count += 1
             if(count == 50):
